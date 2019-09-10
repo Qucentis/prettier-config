@@ -1,20 +1,19 @@
-# `@azz/prettier-config`
-
-> My personal [Prettier](https://prettier.io) config.
+# Official Prettier Config
 
 ## Usage
 
-**Install**:
+#### Install
 
 ```bash
-$ yarn add --dev @azz/prettier-config
+$ yarn add --dev @Qucentis/prettier-config
 ```
 
-**Edit `package.json`**:
+Adds following to `package.json`
 
 ```jsonc
 {
   // ...
-  "prettier": "@azz/prettier-config"
+  "prettier": "@Qucentis/prettier-config"
+  // ...
 }
 ```
