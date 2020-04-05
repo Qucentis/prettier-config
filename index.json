@@ -4,10 +4,10 @@
   "tabWidth": 2,
   "useTabs": false,
   "semi": false,
-  "singleQuote": false,
+  "singleQuote": true,
   "bracketSpacing": true,
   "jsxBracketSameLine": false,
   "trailingComma": "es5",
-  "parser": "babylon",
+  "parser": "babel",
   "endOfLine": "lf"
 }
