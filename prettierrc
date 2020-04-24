@@ -9,5 +9,6 @@
   "jsxBracketSameLine": false,
   "trailingComma": "es5",
   "parser": "babylon",
-  "endOfLine": "lf"
+  "endOfLine": "lf",
+  "arrowParens": "avoid"
 }
