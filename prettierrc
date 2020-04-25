@@ -8,7 +8,7 @@
   "bracketSpacing": true,
   "jsxBracketSameLine": false,
   "trailingComma": "es5",
-  "parser": "babylon",
+  "parser": "babel",
   "endOfLine": "lf",
   "arrowParens": "avoid"
 }
